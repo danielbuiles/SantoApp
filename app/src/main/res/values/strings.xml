@@ -1,5 +1,42 @@
 <resources>
-    <string name="app_name">SantoApp</string>
-    <string name="party">Fiestas</string>
+    <string name="party">fiestas</string>
     <string name="more">Leer Mas</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Español</string>
+    <string name="title1">fiestas</string>
+    <string name="yo">Hola,
+Mi nombre es Daniel y mi apellido es Builes García. Tengo dieciocho años. Nací en Ubrique.
+En cuanto a mi estatura puedo decir que es normal, soy una persona de estatura media, soy delgada. Tengo la cara redonda, tengo la nariz y los ojos grandes, pero mi boca es muy pequeña.
+Mis ojos son marrones, como mi cabello, pero tengo poco cabello, es decir, soy un poco calvo.</string>
+    <string name="txt1">Fiesta permanente en el año 2008, pues se celebran 150 años del natalicio de su más ilustre hijo, el famoso escritor Tomás Carrasquilla.
+                    "Fiestas del Corpus Christi y el altar de San Isidro, sin fecha fija en el mes de mayo o principios de junio
+                    "Fiestas de la antioqueñidad y el desfile de Mitos y leyendas, en le mes de agosto
+                    "Semana de la Juventud y El Deporte con el reinado Miss Montañera, en le mes de septiembre
+                    "Fiesta de la Juventud
+                    "Feria de ganado cada mes</string>
+    <string name="txt2">Santo Domingo\'s economy is based on livestock, a traditional strength of the municipality,
+                     "and in the cultivation of sugar cane and coffee, in addition to mining in such as gold</string>
+    <string name="txt3">Salto del Pérez, on the road to Alejandría.
+                     "Hot springs in the path los naranjos, on the way to Alexandria, are 3 pools with warm water that flows from the mountain, the place has a store.
+                     "Train station in the village of Porce
+                     "Bankruptcy Tunnel, in the town of Santiago
+                     "Charcos in all its townships, those of Santiago, Versalles and Porce are especially visited.
+                     "Cascada's in the la chorrera path, on the road to Cisneros, the first waterfall has a small pool, and the second is an imposing 50-meter fall in the mountain.
+                     "Trapiches paneleros</string>
+    <string name="txt4">Tomás Carrasquilla, writer
+                     "Francisco de Paula Rendón, writer
+                     "Magda Moreno, writer
+                     "Fernando Toro Saldarriaga, historian
+                     "Margarita María Monsalve Estrada, Biologist, Teacher</string>
+    <string name="txt5">The Church of Santo Domingo de Guzmán is a Colombian temple of Catholic worship under the invocation of Santo Domingo de Guzmán, is located in the municipality of Santo Domingo (Antioquia) and belongs to the ecclesiastical jurisdiction of the Diocese of Girardota.1,
+                     "The temple was designed by the son of a son Heliodoro Ochoa,
+                     "It has a dome 55 m high and 8.80 m in diameter; the towers are 80 m high.</string>
+    <string name="txt6">Nature hotels
+                    "They are located near natural areas of interest such as natural parks, reserves and protected areas. Stays are usually for many days.
+                    "Ecological tourism is one of the activities that is growing due to the varieties that nature and the customs that the inhabitants offer us, such as nature, which is the only true source of rest and peace, therefore, it must be very responsible for not causing harm to nature or the natives of the region. Due to its rapid growth it has contributed to the development of tourist activity.
+                    "Hotels-apartment or aparthotels
+                    "These are establishments that, due to their structure and service, have adequate facilities for the conservation, installation and consumption of food within the accommodation unit. They are classified into five categories identified by golden stars and their symbol is the letters HA on a green background.
+                    "Tourist lodges
+                    "Establishment that caters to tourism during stays that are usually between several days and several weeks. They are usually cheap and among them the youth hostels are worth mentioning. These frequently rent beds in a bedroom and share a bathroom, kitchen and living room although many also have of private rooms.
+                    "</string>
 </resources>

@@ -4,10 +4,9 @@ import java.io.Serializable;
 
 public class Datos implements Serializable
 {
-    String NombreaActividad,txtDescriptivos;
-    int FotoActividad;
+    String NombreaActividad,txtDescriptivos,FotoActividad;
 
-    public Datos(String nombreActividad, int FotoActividad,String txtDescriptivo)
+    public Datos(String nombreActividad, String FotoActividad, String txtDescriptivo)
     {
         this.NombreaActividad = nombreActividad;
         this.FotoActividad= FotoActividad;
@@ -24,12 +23,12 @@ public class Datos implements Serializable
         this.NombreaActividad = NombreActividad;
     };
 
-    public  int getFotoActividad()
+    public String getFotoActividad()
     {
         return FotoActividad;
     };
 
-    public void setFotoActividad(int fotoActividad)
+    public void setFotoActividad(String fotoActividad)
     {
         this.FotoActividad = fotoActividad;
     };

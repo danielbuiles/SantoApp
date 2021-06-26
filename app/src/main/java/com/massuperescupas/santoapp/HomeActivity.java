@@ -22,7 +22,6 @@ public class HomeActivity extends AppCompatActivity
 
         datos=(Datos) getIntent().getSerializableExtra("datosPueblo");
 
-        img.setImageResource(datos.getFotoActividad());
         txtTitle.setText(datos.getNombreaActividad());
         txtDescripcion.setText(datos.getTxtDescriptivo());
     }

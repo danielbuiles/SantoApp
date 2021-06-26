@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261497260075",
+    "project_id": "santoapp-9f879",
+    "storage_bucket": "santoapp-9f879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261497260075:android:177ecab5d4decc121ac26e",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261497260075-9mr7sodhn43ikeci1il4o7c96i72dlpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPEUP01-6-DApliXBURjUS3rAiIK-cBBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261497260075-9mr7sodhn43ikeci1il4o7c96i72dlpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
